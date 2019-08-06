@@ -1,1 +1,8 @@
 INFO 2019-08-06 07:17:46,258 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-08-06 11:49:02,659 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-08-06 11:49:14,872 autoreload 217 /home/moluo/.virtualenvs/luffy/lib/python3.6/site-packages/django/db/backends/mysql/base.py changed, reloading.
+INFO 2019-08-06 11:49:15,655 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-08-06 11:49:19,279 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-08-06 11:49:26,716 autoreload 217 /home/moluo/.virtualenvs/luffy/lib/python3.6/site-packages/django/db/backends/mysql/operations.py changed, reloading.
+INFO 2019-08-06 11:49:27,138 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-08-06 11:49:52,287 autoreload 597 Watching for file changes with StatReloader
