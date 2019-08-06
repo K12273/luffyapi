@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fc9133a-2f55-4b94-a412-4980da48577b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luffyapi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/luffyapi/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luffyapi/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/luffyapi/settings/dev.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +28,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../luffy_pc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -112,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565007782160</updated>
-      <workItem from="1565007788841" duration="5259000" />
+      <workItem from="1565007788841" duration="6540000" />
     </task>
     <servers />
   </component>
